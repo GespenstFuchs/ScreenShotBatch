@@ -1,0 +1,2 @@
+# ScreenShotBatch
+スクリーンショットバッチ
